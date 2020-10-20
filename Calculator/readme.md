@@ -7,7 +7,7 @@
  
  # *Output :-*
 
-![](Output.PNG)
+![](Output.png)
 
  # *Contact Us :-*
 
