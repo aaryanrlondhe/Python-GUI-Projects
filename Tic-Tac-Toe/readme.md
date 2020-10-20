@@ -8,7 +8,7 @@ Thank you !!!!
 
 # *Output :-*
 
-![](images.png)
+![](Output.PNG)
 
 # *Contact Us :-*
 
