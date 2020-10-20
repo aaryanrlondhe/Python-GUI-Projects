@@ -5,6 +5,10 @@ This project is on music player created using Python graphics. This project can 
 
 Thank you !!
 
+# *Output :-*
+
+![](Output.png)
+
 # *Contact Us :-*
 
 
