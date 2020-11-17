@@ -1,7 +1,22 @@
  # Calculator using Python GUI 
  Hello, 
  
- This project is on a calculator using Python graphics. This can be used as a simple daily use calculator. I hope you like it. 
+ This project is on a calculator using Python graphics.
+ 📌Features:-
+
+1. Additon
+
+2. Subraction
+
+3. Multiplication
+
+4. Division
+
+5. Decimal Points
+
+6. Delete
+
+I hope you like it.  
  
  Thank you !!
  
